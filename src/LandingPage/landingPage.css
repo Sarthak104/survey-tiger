@@ -1,0 +1,9 @@
+.landing-page-buttons {
+    width: 350px;
+    height: 70px;
+    margin-top: 30px;
+    color:white;
+    background-color: #ba7967;
+    box-shadow: 1px 1px;
+    position: relative;
+}
